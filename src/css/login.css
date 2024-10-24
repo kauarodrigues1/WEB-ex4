@@ -25,3 +25,13 @@ a{
     
 }
 
+
+
+section{
+    display: flex;
+    padding: 10px;
+}
+
+.itens{
+    border: 1px solid black;
+}
